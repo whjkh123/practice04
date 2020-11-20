@@ -8,7 +8,7 @@ public class Ex05 {
 		Scanner sc = new Scanner(System.in);
 		
 		int[] num = new int[5];
-		int sum = 0;
+		double sum = 0;
 		
 		num[0] = (int)(sc.nextInt());
 		num[1] = (int)(sc.nextInt());
